@@ -1,6 +1,13 @@
 # Meower Niotron
 This is a Niotron-based Meower client. Developed using a Google Pixel 5a. Formerly developed using Kodular.
 
+## Source code
+You can download this repository as a .ZIP file, rename to .AIA, and load within Niotron Builder.
+
+## Contributing
+To contribute, simply create a fork, overwrite the existing .aia file in root, and extract it's contents
+into root as well (should overwrite assets, src, and youngandroidproject). Afterwards, make a pull request.
+
 ## Extensions
 ### [ysfchn: DynamicComponents-AI2](https://github.com/ysfchn/DynamicComponents-AI2)
  > Posts and Interactives schemas generated using [TemplateCreator](https://github.com/ysfchn/DynamicComponents-AI2/tree/beta/TemplateCreator)
