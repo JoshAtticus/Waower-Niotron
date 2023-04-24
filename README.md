@@ -1,3 +1,4 @@
+![app_icon.png](https://raw.githubusercontent.com/MikeDev101/meower-niotron/main/assets/app_icon.png)
 # Meower Niotron
 This is a Niotron-based Meower client. Developed using a Google Pixel 5a. Formerly developed using Kodular.
 
