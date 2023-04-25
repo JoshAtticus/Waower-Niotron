@@ -35,10 +35,10 @@
                 "ContentPaddingRight": 0,
                 "ContentPaddingTop": 0,
                 "Elevation": 0,
-                "Height": 40,
+                "Height": 45,
                 "Width": 40,
-                "LongClickable": true,
-                "Radius": 0,
+                "LongClickable": false,
+                "Radius": 15,
                 "RippleColor": 16777215,
                 "RippleEnabled": false
             },
@@ -47,8 +47,8 @@
                     "id": "{icon_id}",
                     "type": "Image",
                     "properties": {
-                        "Height": -2,
-                        "Width": -2
+                        "Height": 25,
+                        "Width": 25
                     }
                 }
             ]
