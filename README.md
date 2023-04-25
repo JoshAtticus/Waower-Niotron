@@ -32,6 +32,10 @@ into root as well (should overwrite assets, src, and youngandroidproject). After
  > Used for converting post timestamps into human-readable format
 ### [ColinTree: Password Visibility](https://aix.colintree.cn/en/extensions/PasswordBoxSwitch.html)
  > Currently unused
+### [vknow360: Asymmetric Cryptography](https://github.com/vknow360/AsymmetricCryptography)
+ > Currently unused, but will enable E2EE chats
+### [AkshatDeveloper06: SecureDB](https://github.com/AkshatDeveloper06/SecureDB)
+ > Currently unused, but will enable E2EE chats (better private key storage)
 
 # TODO
 * GUI
