@@ -1,6 +1,12 @@
-![app_icon.png](https://raw.githubusercontent.com/MikeDev101/meower-niotron/main/assets/app_icon.png)
+![app_icon.png](https://raw.githubusercontent.com/meower-media-co/meower-niotron/main/assets/app_icon.png)
 # Meower Niotron
-This is a Niotron-based Meower client. Developed using a Google Pixel 5a. Formerly developed using Kodular.
+The official remaster of the original Meower Mobile app! Formerly known as Meower-Kodular. This is a Niotron Android client for Meower!
+
+# 📌 Features
+* Media embedding!
+* Nested posts and comments!
+* Notifications!
+* E2EE Chats!
 
 # 👨‍💻 Source code
 You can download this repository as a .ZIP file, rename to .AIA, and load within Niotron Builder.
@@ -15,6 +21,7 @@ into root as well (should overwrite assets, src, and youngandroidproject). After
 * Notifications system
 * Meower CL3/CL4 Protocol Abstraction Layer
 * Meower v0/v1 API Abstraction Layer
+* E2EE chats
 
 # 🐛 Known bugs/issues
 * Clicking "cancel" on the placeholder post creator sends "cancel" in the chat.
