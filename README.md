@@ -17,9 +17,7 @@ into root as well (should overwrite assets, src, and youngandroidproject). After
 
 # 🔃 WIP
 * GUI
-* Session Token Storage
 * Notifications system
-* Meower CL3/CL4 Protocol Abstraction Layer
 * Meower v0/v1 API Abstraction Layer
 * E2EE chats
 
