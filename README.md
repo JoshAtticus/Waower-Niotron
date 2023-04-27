@@ -2,14 +2,25 @@
 # Meower Niotron
 This is a Niotron-based Meower client. Developed using a Google Pixel 5a. Formerly developed using Kodular.
 
-## Source code
+# 👨‍💻 Source code
 You can download this repository as a .ZIP file, rename to .AIA, and load within Niotron Builder.
 
-## Contributing
+# 🤝 Contributing
 To contribute, simply create a fork, overwrite the existing .aia file in root, and extract it's contents
 into root as well (should overwrite assets, src, and youngandroidproject). Afterwards, make a pull request.
 
-## Extensions
+# 🔃 WIP
+* GUI
+* Session Token Storage
+* Notifications system
+* Meower CL3/CL4 Protocol Abstraction Layer
+* Meower v0/v1 API Abstraction Layer
+
+# 🐛 Known bugs/issues
+* Clicking "cancel" on the placeholder post creator sends "cancel" in the chat.
+* Registration doesn't do anything yet.
+
+# 🧩 Extensions
 ### [ysfchn: DynamicComponents-AI2](https://github.com/ysfchn/DynamicComponents-AI2)
  > Posts and Interactives schemas generated using [TemplateCreator](https://github.com/ysfchn/DynamicComponents-AI2/tree/beta/TemplateCreator)
 ### [Sumit1334: Websocket Connector](https://community.kodular.io/t/free-websocket-connector-an-extension-for-connecting-and-communicating-with-web-sockets)
@@ -36,10 +47,3 @@ into root as well (should overwrite assets, src, and youngandroidproject). After
  > 2048-Bit RSA security for E2EE chats
 ### [AkshatDeveloper06: SecureDB](https://github.com/AkshatDeveloper06/SecureDB)
  > Secure storage for a user's public/private key(s)
- 
-# TODO
-* GUI
-* Session Token Storage
-* Notifications system
-* Meower CL3/CL4 Protocol Abstraction Layer
-* Meower v0/v1 API Abstraction Layer
