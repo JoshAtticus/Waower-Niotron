@@ -22,7 +22,6 @@ into root as well (should overwrite assets, src, and youngandroidproject). After
 * E2EE chats
 
 # 🐛 Known bugs/issues
-* Clicking "cancel" on the placeholder post creator sends "cancel" in the chat.
 * Registration doesn't do anything yet.
 
 # 🧩 Extensions
